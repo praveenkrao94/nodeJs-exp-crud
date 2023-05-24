@@ -1,0 +1,20 @@
+npm init -y
+
+
+npm i --save express mongoose cros dotenv
+
+
+npm i --save-dev nodemon
+
+
+
+mvc - module view control
+
+
+view -front end 
+
+contorl - logic
+
+route - server roots path
+
+model - scheme 
